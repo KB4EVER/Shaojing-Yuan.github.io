@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research on Teaching Process Management and Quality Monitoring System for Higher Education"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
