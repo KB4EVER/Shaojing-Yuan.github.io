@@ -52,9 +52,9 @@ Skills
 * Python
 * Visio
 * Deep Learning Frameworks
- * Caffe
- * Deepnet
- * PyTorch
+  * Caffe
+  * Deepnet
+  * PyTorch
 
 Students Organization and Volunteer Work
 ======
