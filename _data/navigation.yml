@@ -4,20 +4,20 @@ main:
   - title: "CV"
     url: /cv/
         
+  - title: "Education"
+    url: /education/
+     
+  - title: "Publications"
+    url: /publications/    
+        
   - title: "Projects"
     url: /projects/
         
   - title: "Honors"
     url: /honors/
     
-  - title: "Education"
-    url: /education/
-    
   - title: "Certifications"
     url: /certifications/
- 
-  - title: "Publications"
-    url: /publications/    
     
   - title: "Skills"
     url: /skills/
