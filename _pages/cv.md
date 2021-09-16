@@ -37,6 +37,7 @@ Certifications
   * Score: 613
 * CET 6 
   * Score: 556
+* High School English Teachers' Certificate
   
 Skills
 ======
