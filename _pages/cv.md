@@ -11,22 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in School of Computer Science and Technology, Shandong University of Finance and Economics, 2012
+* B.S. in School of Computer Science and Technology, Shandong University of Finance and Economics, 2015
   * Major in Computer Science and Technology
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in in School of Computer Science and Technology, Shandong University of Finance and Economics, 2019
+  * Major in Computer Software and Theory
 
-Work experience
+Publications
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Skills
 ======
@@ -37,11 +31,13 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
+Certifications
 Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Projects
+Honors
+Skills
+
+
   
 Talks
 ======
