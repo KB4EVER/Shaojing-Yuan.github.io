@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in School of Computer Science and Technology, Shandong University of Finance and Economics, 2012
+  * Major in Computer Science and Technology
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
