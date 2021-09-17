@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in School of Computer Science and Technology, Shandong University of Finance and Economics, 2015 (GPA:3.75/4.0)
   * Major in Computer Science and Technology
-* M.S. in in School of Computer Science and Technology, Shandong University of Finance and Economics, 2019
+* M.S. in School of Computer Science and Technology, Shandong University of Finance and Economics, 2019
   * Major in Computer Software and Theory
 
 Publications
