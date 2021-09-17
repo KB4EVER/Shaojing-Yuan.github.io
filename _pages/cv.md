@@ -64,6 +64,7 @@ Skills
 * Matlab
 * Python
 * Visio
+* Latex
 * Deep Learning Frameworks
   * Caffe
   * Deepnet
