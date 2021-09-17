@@ -24,7 +24,7 @@ Publications
 
 Projects
 ======
-* Research on personalized cross-media information retrieval with in-depth understanding of user intention (Participator)
+* Research on personalized cross-media information retrieval with an in-depth understanding of user intention (Participator)
   * Humanities and Social Sciences Project of Education Ministry \[20YJA870013\]
 * Research on New Key Technology of Image Retrieval Combined with Multi-social Media (Participator)
   * Natural Science Foundation of Shandong Province \[ZR2019MF016\]
