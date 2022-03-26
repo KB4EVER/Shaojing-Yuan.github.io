@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in School of Computer Science and Technology, Shandong University of Finance and Economics, 2015-2019 (GPA:3.75/4.0).
+* B.S. in School of Computer Science and Technology, Shandong University of Finance and Economics, 2015-2019 (GPA:3.75/4.0)
   * Major in Computer Science and Technology
-* M.S. in School of Computer Science and Technology, Shandong University of Finance and Economics, 2019-2022 (Rank:2/19).
+* M.S. in School of Computer Science and Technology, Shandong University of Finance and Economics, 2019-2022 (Rank:2/19)
   * Major in Computer Software and Theory
 
 Publications
