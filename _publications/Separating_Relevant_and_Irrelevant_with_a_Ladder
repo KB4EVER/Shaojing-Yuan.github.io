@@ -1,9 +1,10 @@
 ---
 title: "Separating Relevant and Irrelevant with a Ladder: Cross-media Retrieval via Fusing Multi-modality and Multi-grained Data (In Review)"
 collection: publications
-excerpt: ''
+excerpt: 'Our paper proposes to fuse coarse-grained and fine-grained features and a multi-margin triplet loss on the basis of a dual-framework. 1) Framework I: a multi-grained data fusion framework based on Deep Belief Network, and 2) Framework Ⅱ: a multi-modality data fusion framework based on the multi-margin triplet loss function. In Framework I, the coarse-grained and fine-grained features fused by the joint Restricted Boltzmann Machine are input into Framework Ⅱ. In Framework Ⅱ, we innovatively propose the multi-margin triplet loss. The data, which belong to different modalities and semantic categories, are stepped away from the anchor in a multi-margin way.'
 date: 2021-9-15
 venue: ''
 paperurl: ''
 citation: ''
 ---
+Our paper proposes to fuse coarse-grained and fine-grained features and a multi-margin triplet loss on the basis of a dual-framework. 1) Framework I: a multi-grained data fusion framework based on Deep Belief Network, and 2) Framework Ⅱ: a multi-modality data fusion framework based on the multi-margin triplet loss function. In Framework I, the coarse-grained and fine-grained features fused by the joint Restricted Boltzmann Machine are input into Framework Ⅱ. In Framework Ⅱ, we innovatively propose the multi-margin triplet loss. The data, which belong to different modalities and semantic categories, are stepped away from the anchor in a multi-margin way.
